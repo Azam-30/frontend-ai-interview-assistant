@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
 import Interviewee from './pages/Interviewee';
 import Interviewer from './pages/Interviewer';
 import ErrorBoundary from './ErrorBoundary';
